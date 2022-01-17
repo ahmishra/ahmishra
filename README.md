@@ -21,5 +21,5 @@
 
 
 # 🌐 Socials:
-[<img align="left" alt="ahmishra | discord" width="64px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg">](https://discord.com/users/423237671683620896)
+[<img align="left" alt="ahmishra | discord" width="58px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg">](https://discord.com/users/849533072143679488)
 [<img align="left" alt="ahmishra | reddit" width="48px" src="https://static.cdnlogo.com/logos/r/93/reddit.svg">](https://www.reddit.com/user/HeavyMetalGuy_)
