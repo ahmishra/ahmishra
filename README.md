@@ -1,6 +1,7 @@
 # 👋 About Me
 **Hi there! I'm Aryan, a passionate data scientist (python), data analyst, and a full stack web developer, I program as a hobbyist + I am very passionate towards programming :D**
-
+<br>
+**Contact Me: Discord - ImCool#0631; G-Mail: umasaryandiscord@gmail.com**
 
 # 📈 Github Statistics
 <a href="https://github.com/ahmishra">
