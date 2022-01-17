@@ -23,4 +23,4 @@
 
 # 🌐 Socials:
 [<img align="left" alt="ahmishra | discord" width="58px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg">](https://discord.com/users/849533072143679488)
-[<img align="left" alt="ahmishra | reddit" width="48px" src="https://static.cdnlogo.com/logos/r/93/reddit.svg">](https://www.reddit.com/user/HeavyMetalGuy_)
+[<img align="left" alt="ahmishra | youtube" width="64px" src="https://ejfhc.org/wp-content/uploads/2020/03/play-button.png">](https://www.youtube.com/channel/UC6y9fkfLhEwyaElvNKuE5Ug)
